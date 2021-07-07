@@ -1,3 +1,8 @@
+# Config and Results
+*.Config
+Results/*.csv
+Datafiles/private.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
